@@ -1,0 +1,16 @@
+D:\M1032434\CBPL005\DigitRotation\DigitRotation\bin\Debug\DigitRotation.exe
+D:\M1032434\CBPL005\DigitRotation\DigitRotation\bin\Debug\DigitRotation.pdb
+D:\M1032434\CBPL005\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.exe
+D:\M1032434\CBPL005\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.pdb
+D:\assignment2\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.exe
+D:\assignment2\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.pdb
+D:\assignment2\CBPL004\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.exe
+D:\assignment2\CBPL004\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.pdb
+D:\assignment2\CBPL004\DigitRotation\DigitRotation\bin\Debug\DigitRotation.exe
+D:\assignment2\CBPL004\DigitRotation\DigitRotation\bin\Debug\DigitRotation.pdb
+D:\Projects\Sample Programs\assignment2\CBPL004\DigitRotation\DigitRotation\bin\Debug\DigitRotation.exe
+D:\Projects\Sample Programs\assignment2\CBPL004\DigitRotation\DigitRotation\bin\Debug\DigitRotation.pdb
+D:\Projects\Sample Programs\assignment2\CBPL004\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.csprojResolveAssemblyReference.cache
+D:\Projects\Sample Programs\assignment2\CBPL004\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.csproj.CoreCompileInputs.cache
+D:\Projects\Sample Programs\assignment2\CBPL004\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.exe
+D:\Projects\Sample Programs\assignment2\CBPL004\DigitRotation\DigitRotation\obj\x86\Debug\DigitRotation.pdb
